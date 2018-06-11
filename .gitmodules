@@ -1,0 +1,6 @@
+[submodule "pcs-device-simulation"]
+	path = pcs-device-simulation
+	url = https://github.com/SLdragon/pcs-device-simulation
+[submodule "pcs-storage-adapter"]
+	path = pcs-storage-adapter
+	url = https://github.com/SLdragon/pcs-storage-adapter.git
